@@ -14,3 +14,4 @@ requests==2.32.3
 tqdm==4.66.5
 python-dotenv==1.0.1
 pydantic==2.9.2
+python-3.11
